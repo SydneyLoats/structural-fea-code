@@ -4,7 +4,7 @@ element code to determine nodal displacements, element stresses, and element str
 solid structure. The solid structure is a 2-D square plate with a circular hole in the center.
 
 ## Files
-`hw10_struct_a` is the actual MATLAB code.  
+`hw10_struct_a.m` is the actual MATLAB code.  
 `Structural Analysis Finite Element Code Report.pdf` is the report writeup.  
 
 The report takes into account 4 different data sets, but I've only uploaded one data set, the R set:  
